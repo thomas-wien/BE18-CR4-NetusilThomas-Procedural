@@ -1,0 +1,9 @@
+.card {
+  -webkit-box-shadow: 4px 1px 14px 0px rgba(0, 0, 0, 0.82);
+  box-shadow: 4px 1px 14px 0px rgba(0, 0, 0, 0.82) !important;
+}
+
+.banner-image {
+  background-image: url("../pictures/heroImage.jpg");
+  background-size: cover;
+}
