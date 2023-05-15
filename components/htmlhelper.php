@@ -29,7 +29,8 @@ function htmlend()
 {
   echo ' <footer class="container-fluid mt-5 bg-dark text-white text-center ">
   
-  <p class="fs-6 m-2 p-2">&copy; 2023 Copyright Thomas Netusil</p>
+  <p class="fs-6 m-2 p-2">&copy; 2023 Copyright Thomas Netusil  <a href="https://https://github.com/thomas-wien/BE18-CR4-NetusilThomas-Procedural.git" target="_blank" rel="noopener noreferrer">Github Procedual Version</a> 
+  <a href="https://github.com/thomas-wien/BE18-CR4-NetusilThomas_OOP.git" target="_blank" rel="noopener noreferrer">Github OOP Version</a></p>
 </footer>
 </body>
   </html>';
